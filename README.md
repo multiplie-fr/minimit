@@ -8,3 +8,4 @@ On trouvera ici :
 - le code source du firmware s'exécutant sur l'ESP32 (Arduino sketches)
 - les scripts PHP que l'on utilise sur un serveur distant pour faciliter les développements
 
+https://multiplié.fr/fr/1-3/objets/minimit
